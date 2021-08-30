@@ -1,5 +1,5 @@
 package types
-
+// import sync/atomic
 import (
 	"strings"
 	"sync/atomic"
